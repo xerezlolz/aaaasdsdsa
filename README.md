@@ -15,8 +15,9 @@
 ## <font face="微软雅黑" size=4>记 录</font>
 
 ### <font face="微软雅黑" size=3>section 1: 书本</font>
-> 2018.7.26 
+> 2018.7.26 update essaies.md
 
+> 2018.7.29 update essaies.md
 ### <font face="微软雅黑" size=3>section 2: 文章</font>
 >
 
