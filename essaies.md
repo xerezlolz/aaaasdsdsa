@@ -41,9 +41,12 @@
 |[28. 经典的嵌入式基础硬件知识，搞嵌入式开发必备](https://mp.weixin.qq.com/s/a0Rl268uAX1Yhq4G9Dbg-g) |<center>`嵌入式基础`</center> | |
 |[29. 应用和设计-TI在线培训](http://edu.21ic.com/m/list-4) |<center>`应用层开发`</center> |TI实例 |
 |[30. UART需要使用DMA发送吗？](https://mp.weixin.qq.com/s/ouqsU3WIL0jNdp6lnmqzYw) |<center>`硬件`</center> | |
-|[31. 先通览全局，然后逐步深入，嵌入式Linux整体框架解读](http://blog.sina.cn/dpool/blog/s/blog_875c12ae0100ukzx.html) |<center>`开发工具`</center> | |
+|[31. 先通览全局，然后逐步深入，嵌入式Linux整体框架解读](http://blog.sina.cn/dpool/blog/s/blog_875c12ae0100ukzx.html) |<center>`Linux开发`</center> | |
 |[32. ARM嵌入式常用开发工具及开发流程](https://mp.weixin.qq.com/s/SxKlGeei3NC20Xnny2GVuw) |<center>`开发工具`</center> | |
-|[33. 汇编语言入门教程](https://mp.weixin.qq.com/s/HdiXqmQWvvvkhlIwMFzcvQ) |<center>`开发工具`</center> | |
+|[33. 汇编语言入门教程](https://mp.weixin.qq.com/s/HdiXqmQWvvvkhlIwMFzcvQ) |<center>`汇编语言`</center> | |
+|[34. 嵌入式Linux OS启动流程，了解一下！](https://mp.weixin.qq.com/s/ax-U0gf-AvqGkn1-9qziRg) |<center>`应用层开发`</center> | |
+|[35. 学习嵌入式不可不知的十六个硬件相关概念](https://mp.weixin.qq.com/s/rKGLjuGy2am0CrAFDLUFUA) |<center>`硬件`</center> | |
+|[36. 少走弯路系列！嵌入式Linux 模块编译步骤入门](https://mp.weixin.qq.com/s/Ur73T-KzETTrURu2kR5Dkw)|<center>`Linux开发`</center> | |
 
 ---------------------------------------------------
 ## 图片归集

@@ -13,6 +13,8 @@
 </ol>
 <ol>2.2 ARM处理器开发详解 基于ARM Cortex-A8处理器的开发设计
 </ol>
+<ol>2.3 LASO
+</ol>
 </ul>
 <ul>三、嵌入式Linux应用层开发
 <ol>3.1 UNIX环境高级编程
